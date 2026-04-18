@@ -1,7 +1,7 @@
 ## Description
-SAT0RU is a cursed technique visualizer based on the popular anime series, Jujutsu Kaisen 呪術廻戦. It combines the mediapipe library with three.js to recreate cursed techniques from Jujutsu Kaisen. Powered by Gemini 3.
+JUJUTSU is a cursed technique visualizer based on the popular anime series, Jujutsu Kaisen 呪術廻戦. It combines the mediapipe library with three.js to recreate cursed techniques from Jujutsu Kaisen. Powered by Claude.
 
-![Demo GIF](https://github.com/user-attachments/assets/8ad2b871-02c0-4b97-95f3-34682e745be0)
+![Demo GIF](https://pin.it/79K9cskr2)
 
 ## Features
 
@@ -23,18 +23,18 @@ This project utilizes particles to render volume-based cursed techniques:
 ## Getting Started
 
 ### Prerequisites
-You need a modern web browser (Chrome, Edge, Firefox) and a webcam.
+You need a modern web browser (Chrome, Edge,  etc.) and a webcam.
 
 ### Installation
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/reinesana/SAT0RU.git](https://github.com/reinesana/SAT0RU.git)
-    cd SAT0RU
+    git clone [https://github.com/bonkey24/JUJUTSU.git](https://github.com/bonkey24/JUJUTSU.git)
+    cd JUJUTSU
     ```
 
 2.  **Run the project**
-    **VS Code:** Install the "Live Server" extension, right-click `index.html`, and select "Open with Live Server".
+    **VS Code:** Install the "Live Server" extension, right-click `cursed.html`, and select "Open with Live Server".
 
 ## Note 
 
-This project was built and powered by **Google Gemini 3**.
+This project was built and powered by **Claude**.
